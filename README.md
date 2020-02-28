@@ -1,2 +1,0 @@
-# nvmOnCodeSandBox
-Created with CodeSandbox
